@@ -1,0 +1,8 @@
+openai==0.28.0
+streamlit
+requests
+bs4
+gtts
+gradio-client
+Pillow
+moviepy<2.0
